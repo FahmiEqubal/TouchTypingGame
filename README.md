@@ -3,6 +3,9 @@
 
 This repository contains a simple Typing Game built with React.
 
+Click here to view site
+https://fahmiequbal.github.io/TouchTypingGame
+
 ## Description
 
 The Typing Game is a web application that tests and improves your typing skills. It presents a random piece of text, and the player needs to type it as accurately and quickly as possible. The game calculates the accuracy and score based on the number of correct words and the time taken to complete the typing. It provides a fun and interactive way to practice and enhance your typing speed and accuracy.
